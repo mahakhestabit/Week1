@@ -1,0 +1,31 @@
+Here We have to create alias for various commands
+
+
+Alias ? Reason ?
+
+Alias is a process in which we rename commands like if we have lots of commands and they are quite lot to write again and again. So In those kind of cases we created alias. We gave a small name to a big command and saved to our system. So that if in future we need that command we can use that shortcut.
+
+Ways to create Alias 
+
+Steps are given below: 
+Step 1: Open terminal 
+Step 2: Write below command on terminal with your own command
+echo "alias gs = 'git status'" >> ~/.bashrc
+
+Here this command will create a shortcut for git status and it is for Bash. (Linux uses Bash by default)
+
+Step 3: To save that command in your PC write below command 
+source ~/.bashrc
+
+This will save it so that you can use 'gs' every time to check git status
+
+
+ZSH
+
+If you want to use zsh instead of bash then you just have to install zsh in your system first and then replace bashrc to zshrc in above commands.
+
+
+These Bash and Zsh can be used in functions, alias and variable.
+We can make shortcut for them.
+
+

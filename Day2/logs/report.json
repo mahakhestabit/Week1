@@ -1,0 +1,25 @@
+{
+  "/home/mahaksaini/Week1/Day2/sample.txt": {
+    "lines_2025-12-05T08:49:16.409Z": {
+      "type": "lines",
+      "count": 7,
+      "executionTimesMS": 1,
+      "memoryMB": 0.29,
+      "timestamp": "2025-12-05T08:49:16.408Z"
+    },
+    "words_2025-12-05T08:49:16.409Z": {
+      "type": "words",
+      "count": 25,
+      "executionTimesMS": 1,
+      "memoryMB": 0.05,
+      "timestamp": "2025-12-05T08:49:16.408Z"
+    },
+    "chars_2025-12-05T08:49:16.409Z": {
+      "type": "chars",
+      "count": 112,
+      "executionTimesMS": 1,
+      "memoryMB": 0.04,
+      "timestamp": "2025-12-05T08:49:16.408Z"
+    }
+  }
+}

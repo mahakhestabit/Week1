@@ -1,0 +1,6 @@
+I am here for you
+I want to count lines
+I want to count words
+I want to count chars
+I want to count everything
+

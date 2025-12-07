@@ -1,0 +1,23 @@
+Commands for task 1: 
+given command and get lot of data here 
+curl -v https://api.github.com/users/octocat
+
+
+commands to extract only required info from large data
+curl -v https://api.github.com/users/octocat 2>&1 | grep -E 'x-ratelimit-remaining|etag|server'
+
+
+commands to make file and add required data into file
+curl -v https://api.github.com/users/octocat 2>&1 | grep -E 'x-ratelimit-remaining|etag|server' > github_headers.txt
+
+
+Commands For task2:
+
+given commadn that has lot of data
+curl -v https://api.github.com/users/octocat/repos?page=1&per_page=5
+
+
+Lot of data was there and found difficulty to search of Link Headers then this below command does filteration
+
+curl -v 'https://api.github.com/users/octocat/repos?page=1&per_page=5' 2>&1 | grep '<'
+

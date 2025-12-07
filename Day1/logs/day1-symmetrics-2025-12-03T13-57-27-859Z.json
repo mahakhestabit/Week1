@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2025-12-03T13:57:27.860Z",
+    "cpuUsage": {
+      "user": 28458,
+      "system": 11594
+    },
+    "resourceUsage": {
+      "userCPUTime": 28485,
+      "systemCPUTime": 11605,
+      "maxRSS": 44128,
+      "sharedMemorySize": 0,
+      "unsharedDataSize": 0,
+      "unsharedStackSize": 0,
+      "minorPageFault": 2626,
+      "majorPageFault": 0,
+      "swappedOut": 0,
+      "fsRead": 0,
+      "fsWrite": 8,
+      "ipcSent": 0,
+      "ipcReceived": 0,
+      "signalsCount": 0,
+      "voluntaryContextSwitches": 19,
+      "involuntaryContextSwitches": 8
+    }
+  },
+  {
+    "timestamp": "2025-12-03T13:57:27.882Z",
+    "cpuUsage": {
+      "user": 48926,
+      "system": 15954
+    },
+    "resourceUsage": {
+      "userCPUTime": 48937,
+      "systemCPUTime": 15957,
+      "maxRSS": 52564,
+      "sharedMemorySize": 0,
+      "unsharedDataSize": 0,
+      "unsharedStackSize": 0,
+      "minorPageFault": 2974,
+      "majorPageFault": 0,
+      "swappedOut": 0,
+      "fsRead": 0,
+      "fsWrite": 16,
+      "ipcSent": 0,
+      "ipcReceived": 0,
+      "signalsCount": 0,
+      "voluntaryContextSwitches": 24,
+      "involuntaryContextSwitches": 9
+    }
+  }
+]

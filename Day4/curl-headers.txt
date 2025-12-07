@@ -1,0 +1,4 @@
+* ALPN: server accepted h2
+< server: github.com
+< etag: W/"147f22aa3bf3ea7b37a72a0a85374c633fa070a936b4fbdced25f893129a5711"
+< x-ratelimit-remaining: 50
